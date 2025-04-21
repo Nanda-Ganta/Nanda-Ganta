@@ -29,7 +29,7 @@ Hi, I’m **Nanda Gowri Ganta** 🙌—a data enthusiast, visualization wizard, 
 - 💬 **Ask me about**: Data visualization, Tableau dashboards, or how to make sense of messy datasets.
 - 📫 **Reach me**: Via LinkedIn or any platform below—let’s talk data!
 - ⚡ **Fun Fact**: I’m fluent in Hindi, Telugu, and data—and I’m itching to learn Spanish next! 🌍
-- ✨ **Check out**: [My Portfolio](#) (*add your portfolio link if you have one*).
+- ✨ **Check out**: [My Portfolio](#).
 
 ## 💻 My Tech Stack
 
@@ -45,17 +45,17 @@ Hi, I’m **Nanda Gowri Ganta** 🙌—a data enthusiast, visualization wizard, 
 - **[Freelance Platform Database]**  
   Built a MySQL database for a freelance hosting platform, optimizing data storage and retrieval with a reverse-engineered structure inspired by real-world systems.  
   *Tech*: MySQL, Database Design  
-  [🔗 Repo](#) (*add link*)
+  [🔗 Repo](#) 
 
 - **[Financial Forecasting Model]**  
   Created a time-series budget forecasting tool with Python and visualized KPIs in Tableau dashboards to guide financial decisions.  
   *Tech*: Python, Excel, Tableau  
-  [🔗 Repo](#) (*add link*)
+  [🔗 Repo](#) 
 
 - **[Customer Churn Prediction]**  
   Analyzed utility company data to predict churn with 85% accuracy and visualized retention strategies in Tableau.  
   *Tech*: Python (Pandas, NumPy), Tableau  
-  [🔗 Repo](#) (*add link*)
+  [🔗 Repo](#) 
 
 ## 📊 GitHub Stats
 
@@ -70,13 +70,3 @@ Hi, I’m **Nanda Gowri Ganta** 🙌—a data enthusiast, visualization wizard, 
 ## 📬 Let’s Connect!
 
 Star a repo, fork a project, or drop me a message—let’s crunch some data together! ✨
-
-### Customization Tips:
-1. **Add Your GitHub Username**: Replace `[YourGitHubUsername]` in the stats card URL with your actual GitHub handle (e.g., `nandagowri` if that’s you).
-2. **Link Projects**: Update `[🔗 Repo](#)` with links to your actual project repositories.
-3. **Social Media**: Add your Twitter, Medium, or Instagram handles by replacing `[YourTwitterHandle]`, etc., or remove those lines if you don’t want them. For example, if your Twitter is `@NandaGowri`, the URL becomes `https://twitter.com/NandaGowri`.
-4. **Portfolio Link**: If you have a portfolio site, replace `[My Portfolio](#)` with the URL.
-5. **GIF Choice**: I picked a data-themed GIF, but if you want a different vibe (e.g., something funnier or more techy), let me know, and I can suggest another!
-6. **Theme**: The stats card uses the `radical` theme for a bold look. If you prefer something else (e.g., `dark`, `light`, `dracula`), change `theme=radical` in the stats URL.
-
-If you want tweaks—like more humor, a different layout, or highlighting specific projects—just let me know, and I’ll iterate to make it even more *you*! 😄 What do you think?
