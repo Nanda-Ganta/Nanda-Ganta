@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-Hi, I’m **Nanda Gowri Ganta** 🙌—a data enthusiast, visualization wizard, and Business Analytics Master’s student at the University of North Texas. I love turning raw data into stunning dashboards and actionable insights using Python, Tableau, and SQL. Welcome to my GitHub, where I crunch numbers, solve problems, and build cool projects! 🚀
+Hi, I’m **Nanda Gowri Ganta** 🙌—a data enthusiast, visualization wizard, and Business Analytics Graduate. I love turning raw data into stunning dashboards and actionable insights using Python, Tableau, and SQL. Welcome to my GitHub, where I crunch numbers, solve problems, and build cool projects! 🚀
 
 <img align="right" alt="Data GIF" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDM0MG9rczZtbTJkMWkyYzJtbzh6d3I5aW91a3VpN2RtbGRtc3Z3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRzozg4TCas12Du/giphy.gif" />
 
