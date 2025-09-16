@@ -1,72 +1,68 @@
-# 🌟 Hello, Data World! 👋 I’m Nanda Gowri Ganta!
+# Hello World!
 
-<br/>
+🔤 Language / भाषा / భాష / Idioma: 🇺🇸 EN | 🇮🇳 हिं | 🇮🇳 తె | 🇪🇸 ES
 
-<a href="https://www.linkedin.com/in/nanda-gowri-ganta">
-  <img align="left" alt="Nanda Gowri Ganta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/[YourTwitterHandle]">
-  <img align="left" alt="Nanda Gowri Ganta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://medium.com/@[YourMediumHandle]">
-  <img align="left" alt="Nanda Gowri Ganta | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://www.instagram.com/[YourInstagramHandle]">
-  <img align="left" alt="Nanda Gowri Ganta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+My name is **Nanda Gowri** (you can call me Nanda). I am a passionate data professional specializing in building dashboards, machine learning models and powering business decisions. Currently based in the US. 
 
-<br/><br/>
+> **"Data is the language of the powerholders." — Jodi Petersen**
 
-Hi, I’m **Nanda Gowri Ganta** 🙌—a data enthusiast, visualization wizard, and Business Analytics Graduate. I love turning raw data into stunning dashboards and actionable insights using Python, Tableau, and SQL. Welcome to my GitHub, where I crunch numbers, solve problems, and build cool projects! 🚀
+## 🛠 Technologies and tools
 
-<img align="right" alt="Data GIF" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDM0MG9rczZtbTJkMWkyYzJtbzh6d3I5aW91a3VpN2RtbGRtc3Z3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRzozg4TCas12Du/giphy.gif" />
+<a name="learning-now"></a>
 
-## 🧠 About Me
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/Fastlane-282C34?logo=fastlane&logoColor=00F200" alt="Fastlane logo" title="Fastlane" height="25" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />](#)
 
-- 🔭 **Currently**: Studying Business Analytics and diving deep into machine learning and cloud tech.
-- 🌱 **Learning**: Advanced predictive modeling and cloud-based ETL pipelines (GCP is my jam!).
-- 👯 **Community**: Event Director at UNT Cyber Security Club & Member of the Business Analytics Club.
-- 💬 **Ask me about**: Data visualization, Tableau dashboards, or how to make sense of messy datasets.
-- 📫 **Reach me**: Via LinkedIn or any platform below—let’s talk data!
-- ⚡ **Fun Fact**: I’m fluent in Hindi, Telugu, and data—and I’m itching to learn Spanish next! 🌍
-- ✨ **Check out**: [My Portfolio](#).
+## 📖 What I am currently learning / improving on
 
-## 💻 My Tech Stack
+[<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />](#)
+&nbsp;
+[<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />](#)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a764ceec4443d1d83785785f92d75b5c668/topics/tableau/tableau.png" alt="Tableau"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/googlecloud/googlecloud.png" alt="GCP"></code>
+## 👾 What I am interested in learning at some point
 
-## 🌟 Featured Projects
+[<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />](#)
 
-- **[Freelance Platform Database]**  
-  Built a MySQL database for a freelance hosting platform, optimizing data storage and retrieval with a reverse-engineered structure inspired by real-world systems.  
-  *Tech*: MySQL, Database Design  
-  [🔗 Repo](#) 
+## 🔍 Where to find me
 
-- **[Financial Forecasting Model]**  
-  Created a time-series budget forecasting tool with Python and visualized KPIs in Tableau dashboards to guide financial decisions.  
-  *Tech*: Python, Excel, Tableau  
-  [🔗 Repo](#) 
+[<img src="https://img.shields.io/badge/UNT-282C34?logo=graduation-cap&logoColor=00853E" alt="UNT logo" title="UNT" height="25" />](https://ci.unt.edu/unt-professor-data-science-conducts-lab-research-six-nsf-grants.html)
+&nbsp;
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/nanda-gowri-ganta)
 
-- **[Customer Churn Prediction]**  
-  Analyzed utility company data to predict churn with 85% accuracy and visualized retention strategies in Tableau.  
-  *Tech*: Python (Pandas, NumPy), Tableau  
-  [🔗 Repo](#) 
 
-## 📊 GitHub Stats
-
-![Nanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&hide_border=true&theme=radical)
-
-## 🌍 Community & Leadership
-
-- **Event Director**, UNT Cyber Security Club—organizing workshops and spreading tech knowledge.  
-- **Member**, UNT Business Analytics Club—staying on top of data trends.  
-- **Global Mindset**: Thriving in diverse teams with roots in India and a home in the U.S.
-
-## 📬 Let’s Connect!
-
-Star a repo, fork a project, or drop me a message—let’s crunch some data together! ✨
+ 
